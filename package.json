@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "datatables.net": "^1.10.24",
+    "datatables.net-dt": "^1.10.24",
+    "jquery": "^3.6.0",
+    "react-table": "^7.7.0"
+  }
+}
